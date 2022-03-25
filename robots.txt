@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Allow: /contacto
+Allow: /produccion
+Allow: /servicios
+Allow: /certificaciones
+Allow: /nosotros
+Allow: /
+
+Sitemap: https://www.proserla.com/sitemap.xml
