@@ -1,24 +1,19 @@
 # web-proserla
 
-## Project setup
+## Instalar Librerias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr en entorno de desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### (Build) Compilar vistas para production
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Despliegue en el servidor
+<p>Despues del "build", Copiar contenido de la carpeta disk a la raiz de la carpeta publica en el servidor.</p>

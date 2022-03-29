@@ -4,7 +4,7 @@ module.exports = {
       "no-mixed-spaces-and-tabs": 0, // disable rule
     },
     "parserOptions": {
-        "parser": "babel-eslint",
+        // "parser": "babel-eslint",
         "sourceType": "module",
         "ecmaVersion": 6,
         "ecmaFeatures": {

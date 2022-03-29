@@ -14,25 +14,8 @@
         <div class="bg-white">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <!-- <div class="col-md-1"></div> -->
                     <div class="col-8 show-sm mb-3">
                         <img src="/img/logo.png" alt="" class="img-fluid">
-                        <!-- <div class="card-fruta-horizontal card-left">
-                            <div class="row">
-                                <div class="col-sm-8 col-7">
-                                    <div class="card-horizontal-content">
-                                        <div class="card-hoja">
-                                            <img src="/img/hoja-purple.png" alt="" class="img-fluid">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4 col-5">
-                                    <div class="card-fruta-img">
-                                         <img src="/img/circle-jayanca.png" alt="" class="img-fluid">
-                                     </div>
-                                </div>
-                            </div>
-                        </div> -->
                     </div>
                     <div class="col-md-3 col-6 mb-3 hidden-sm">
                         <img src="/img/logotipo.png" alt="" class="img-fluid">
@@ -83,23 +66,6 @@
             <div class="container">
                 <div class="row mb-3 justify-content-center align-items-center">
                     <div class="col-md-3">
-                        <!-- <div class="mb-3 card-fruta-horizontal card-right">
-                            <div class="row">
-                                <div class="col-sm-4 col-5">
-                                    <div class="card-fruta-img">
-                                        <img src="/img/circle-jayanca.png" alt="" class="img-fluid">
-                                    </div>
-                                </div>
-                                <div class="col-sm-8 col-7">
-                                    <div class="card-horizontal-content">
-                                        <div class="card-hoja">
-                                            <img src="/img/hoja-green.png" alt="" class="img-fluid">
-                                        </div>
-                                        <h2><b>JAYANCA FRUITS</b></h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                         <div class="row align-items-center justify-content-center">
                             <div class="col-8">
                                 <img src="/img/jayanca.png" class="img-fluid" style="max-width=90%">
@@ -115,16 +81,6 @@
                         </div>
                     </div>
                     <div class="col-md-3 mb-3 hidden-sm">
-                        <!-- <div class="card-fruta mb-5">
-                            <div class="card-content">
-                                <div class="card-hoja">
-                                    <img src="/img/hoja-green.png" alt="" class="img-fluid">
-                                </div>
-                            <!-- </div>
-                            <div class="card-fruta-img">
-                                <img src="/img/circle-jayanca.png" alt="" class="img-fluid">
-                            </div>
-                        </div> --> 
                     </div>
                 </div>
             </div>
